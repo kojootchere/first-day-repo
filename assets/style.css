@@ -1,10 +1,15 @@
 footer {
-    padding-left: 20px;
-    /* Add an indent on the left side */
-    line-height: 0;
+    padding-left: 0px;
+    /* Added an indent on the left side */    
 }
+
+.footer li {
+    padding-left: 0px; /* Adjusted the spacing between the bullet and the text */
+}
+  
 img {
     display: block;
     height: 200px;
     width: 200px;
+    /* Adjusted the image size */
 }
